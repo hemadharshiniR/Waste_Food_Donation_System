@@ -12,7 +12,6 @@ Features
 - Responsive UI — Clean and user-friendly interface
 
 
-
 Technologies Used
 
 | Technology | Purpose |
